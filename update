@@ -9,7 +9,7 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDQFLPb/netlogo.png" group-title="TV NASIONAL" ,NET TV
 http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="TV NASIONAL" ,TV ONE
-http://rr2.dens.tv/s/s105/index2.m3u8
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV NASIONAL" ,INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="TV NASIONAL" ,SCTV
@@ -23,17 +23,17 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL" , TRANS TV
-http://45.12.80.132:25461/live/hello/hello/31.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL", TRANS 7
-http://rr2.dens.tv:80/s/s101/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL", TRANS 7
-http://45.12.80.132:25461/live/hello/hello/32.m3u8
+http://rr2.dens.tv:80/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/logo_rtv_6830883.jpg" group-title="TV NASIONAL",RTV
+http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="TV NASIONAL" , METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="TV NASIONAL" , INEWS TV
-https://cdn11jtedge.useetv.com/joss/134/inews/chunklist_w448106213_b494100_sleng.m3u8?enc=yVeW_cd7nLIrdRRnfoNl5Q&uid=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1619363104
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="TV NASIONAL" , BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nV9mS0NW/kompastv.png" group-title="TV NASIONAL", KOMPAS TV
@@ -47,11 +47,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="TV NASIONAL" , TVRI
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="TV NASIONAL" , MNC NEWS
-https://cdnmdc1.useetv.com/joss/134/mncnews/chunklist_w1779026361_b1004100_sleng.m3u8?enc=mOdZ9TMfyu3wf6ny1Uxpiw&uid=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1619364005
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxvbUe4s3qrlKbW6MiAOYZA5DN1f0KZfI1A&usqp=CAU" group-title="TV NASIONAL",TVRI Sports
 http://rr2.dens.tv/s/s107/index2.m3u8
-#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/logo_rtv_6830883.jpg" group-title="TV NASIONAL",RTV
-https://r2.servercantik.net/stream/rtv/playlist.mid?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgOTozODo0NCBBTSZoYXNoX3ZhbHVlPXVLTXVwVWkxa09wYmVuQ2RwSStjNXc9PSZpZD0yb3Q0enxiZmZhNzNhZTQ3OTQ4YjJmYTkyOWZiMzlkMThiODEzYSZ2YWxpZG1pbnV0ZXM9MTQ0MA==&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJmZmE3M2FlNDc5NDhiMmZhOTI5ZmIzOWQxOGI4MTNhIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIyb3Q0eiIsIm1heF9kZXZpY2VzIjoxLCJpcCI6IjE4MC4yNTQuMTc5LjIyOSIsInN0cmVhbV9uYW1lIjoicnR2Iiwic3RyZWFtIjoiUlRWIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA2LjAuMTsgSEc2ODAtUCBCdWlsZC9NSEMxOUo7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNjkuMC4zNDk3LjQxIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiYXNuX29yZyI6IlBUIFRlbGVrb211bmlrYXNpIEluZG9uZXNpYSIsImlhdCI6MTYyMDQ2NjcyNCwiZXhwIjoxNjIwNDY2ODQ0fQ.dOUY6B60Hx8JFAwHkJLNlO1moHK5311QVrKfW01IcOw
+
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="TV NASIONAL", Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="TV NASIONAL", Bisnet Adventure 4K
@@ -60,8 +59,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV NASIONAL" ,TEGARTV LAMPUNG
 http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="TV NASIONAL",ELSHINTA TV
-http://rr2.dens.tv/s/s10/index2.m3u8
+
 
 ### LOKAL VIDIO ###
 
@@ -113,27 +111,17 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6482_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="MOVIES", HBO ID
 http://ruangwaktu.xyz/tuinghbo/hbohd.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="MOVIES", HBO ID
-https://r2.servercantik.net/stream/hbo/playlist.mid?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgNTowNDozMyBBTSZoYXNoX3ZhbHVlPTZqY3E2bDB3QVdsZkZEM3JFaWpTK1E9PSZpZD0yb3Q0enwzZmM1ZDA3MzcyZjI3NDJlMTkyOTg2YjNkMTg4ZDk4NCZ2YWxpZG1pbnV0ZXM9MTQ0MA==&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNmYzVkMDczNzJmMjc0MmUxOTI5ODZiM2QxODhkOTg0IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIyb3Q0eiIsIm1heF9kZXZpY2VzIjoxLCJpcCI6IjE4MC4yNTQuMTc5LjIyOSIsInN0cmVhbV9uYW1lIjoiaGJvIiwic3RyZWFtIjoiSEJPIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA2LjAuMTsgSEc2ODAtUCBCdWlsZC9NSEMxOUo7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNjkuMC4zNDk3LjQxIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiYXNuX29yZyI6IlBUIFRlbGVrb211bmlrYXNpIEluZG9uZXNpYSIsImlhdCI6MTYyMDQ1MDI3MywiZXhwIjoxNjIwNDUwMzkzfQ.XSJduOBNXMVWj3h0bHiwilmS8zCDeJvuTb6TsyToYj0
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="MOVIES",HBO
-https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=ts~I~eSDRKqSMY5DhPbOaV7rK2F3Z0JjYntQcgO-m4rKhvkc6sOqa30SLdeEzHsvhV6fOmMxzh7jDyPww13REGQRQrbog6I1cC5-bGiZA1UdOEwnRiRPKDcLQB8f6T5luvypGD8gFRwiao4H5edMmWeOx0EVPT7RT2sEsGWPdmgHng~baz9K69l32zpupjZLCHmWtIyMjYB8MNGmsk4afVKJYrEMyxLBqXlL5brWUJzA8TXn54Y4fojxKYNMKuOxAQynFkdUbLk6IUVSke1ceWMFBGkZXMQT6iSkdYY4MrtgtVdduqo4z5P7esmfKAjUH-c5bJTcrXcMRA0r4lv2Ig__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif" group-title="MOVIES",HBO Signature
-https://r2.servercantik.net/stream/hbo_signature/playlist.mid?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgNTowODozMCBBTSZoYXNoX3ZhbHVlPTZYT2JjV0djUEFkZlhkdDZXa1RrMXc9PSZpZD0yb3Q0enwxMGVhOTFmZTY0OTVjZWEzOWY1MzEwNmRkYjZiMjk5ZSZ2YWxpZG1pbnV0ZXM9MTQ0MA==&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwZWE5MWZlNjQ5NWNlYTM5ZjUzMTA2ZGRiNmIyOTllIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIyb3Q0eiIsIm1heF9kZXZpY2VzIjoxLCJpcCI6IjE4MC4yNTQuMTc5LjIyOSIsInN0cmVhbV9uYW1lIjoiaGJvX3NpZ25hdHVyZSIsInN0cmVhbSI6IkhCTyBTaWduYXR1cmUiLCJ0eXBlIjoiZW5kdXNlciIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDYuMC4xOyBIRzY4MC1QIEJ1aWxkL01IQzE5Sjsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS82OS4wLjM0OTcuNDEgU2FmYXJpLzUzNy4zNiIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjIwNDUwNTEwLCJleHAiOjE2MjA0NTA2MzB9.Uhcn3YU1qcFZ5BBOhmL33kyAr_YkbwX8YjRvieDb6DM
-#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif" group-title="MOVIES",HBO Signature
-http://ruangwaktu.xyz/tuinghbo/sighd.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=XPcUvt22cPfWlaTvZIFVTopWXz-gcftvZHtYimxZfYl90uif8HFUSu8UFy04VNbRlMKlUwPCfBP-04dw8nM~t4f~7VB5b1L12FsphQy-0DUoRV5W9mF8mm5rab5xFaBbGChVFkvIqfNzae~6zIMAE0LpPukmSYrN-jozArwLO0tTTNpAj0IGM9cHikREQYA-yK5TYA18OvpTsC4MxAbtmYiKnPmQIsYDqgvLKhiQRwCpJRfTWQmkdrOG3wE~B~8htVFuQ9OxukjuiofDQGQPYkp5hP6H2SYWhxNFzS~GBBKAEieJk4gCb7~rXSIaQ9h9OMubcpC4vx9h5S~Sj1-Img__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_5hbo_hits.jpg", HBO Hits
-http://ruangwaktu.xyz/tuinghbo/hbohits.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_5hbo_hits.jpg", HBO Hits
-https://r2.servercantik.net/stream/hbo_hits/playlist.mid?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgNToxNDoyMiBBTSZoYXNoX3ZhbHVlPXNGY3dwM05RbzNLNjNDNU8rRjhud0E9PSZpZD0yb3Q0enwzN2VlNDVjZGRlZDJlN2QwZDdmZGQ3ZWZmYjVlNTUyOCZ2YWxpZG1pbnV0ZXM9MTQ0MA==&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM3ZWU0NWNkZGVkMmU3ZDBkN2ZkZDdlZmZiNWU1NTI4IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIyb3Q0eiIsIm1heF9kZXZpY2VzIjoxLCJpcCI6IjE4MC4yNTQuMTc5LjIyOSIsInN0cmVhbV9uYW1lIjoiaGJvX2hpdHMiLCJzdHJlYW0iOiJIQk8gSGl0cyIsInR5cGUiOiJlbmR1c2VyIiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNi4wLjE7IEhHNjgwLVAgQnVpbGQvTUhDMTlKOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzY5LjAuMzQ5Ny40MSBTYWZhcmkvNTM3LjM2IiwiYXNuIjoiNzcxMyIsImFzbl9vcmciOiJQVCBUZWxla29tdW5pa2FzaSBJbmRvbmVzaWEiLCJpYXQiOjE2MjA0NTA4NjIsImV4cCI6MTYyMDQ1MDk4Mn0.bKVT3tptao5M-IRdhAKMBTeZ9wxijJB7bJdd90xwaHU
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family
-https://r2.servercantik.net/stream/hbo_family/playlist.mid?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgNToxNzowNCBBTSZoYXNoX3ZhbHVlPWZ1NU03UTVUcTNqck5UU0VvUkZKVmc9PSZpZD0yb3Q0enw5NmFiNDMzMjVlMWYxYTk0ZDU5MmExNDU2Y2ZiYjRhOCZ2YWxpZG1pbnV0ZXM9MTQ0MA==&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijk2YWI0MzMyNWUxZjFhOTRkNTkyYTE0NTZjZmJiNGE4IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIyb3Q0eiIsIm1heF9kZXZpY2VzIjoxLCJpcCI6IjE4MC4yNTQuMTc5LjIyOSIsInN0cmVhbV9uYW1lIjoiaGJvX2ZhbWlseSIsInN0cmVhbSI6IkhCTyBGYW1pbHkiLCJ0eXBlIjoiZW5kdXNlciIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDYuMC4xOyBIRzY4MC1QIEJ1aWxkL01IQzE5Sjsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS82OS4wLjM0OTcuNDEgU2FmYXJpLzUzNy4zNiIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjIwNDUxMDI0LCJleHAiOjE2MjA0NTExNDR9.U6sHwuuHWY-YcB9jiXtQ46TUpyvkSN411kVA-qeTpG0
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family
-http://ruangwaktu.xyz/tuinghbo/hbofam.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.hbci.com/wp-content/uploads/022519-cinemax.jpg", Cinemax by HBO
-http://ruangwaktu.xyz/tuinghbo/max.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.hbci.com/wp-content/uploads/022519-cinemax.jpg", Cinemax by HBO
-https://r2.servercantik.net/stream/hbo_cinemax/playlist.mid?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgNToyNjoyNiBBTSZoYXNoX3ZhbHVlPU80TFNwL25nc21mSXMzTmlyVFJXUFE9PSZpZD0yb3Q0enxkNDgxMDI4MDc1YTllMDdkMWE3ODViM2U4Zjk0ZDE5NCZ2YWxpZG1pbnV0ZXM9MTQ0MA==&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQ0ODEwMjgwNzVhOWUwN2QxYTc4NWIzZThmOTRkMTk0IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIyb3Q0eiIsIm1heF9kZXZpY2VzIjoxLCJpcCI6IjE4MC4yNTQuMTc5LjIyOSIsInN0cmVhbV9uYW1lIjoiaGJvX2NpbmVtYXgiLCJzdHJlYW0iOiJDaW5lbWF4IGJ5IEhCTyIsInR5cGUiOiJlbmR1c2VyIiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNi4wLjE7IEhHNjgwLVAgQnVpbGQvTUhDMTlKOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzY5LjAuMzQ5Ny40MSBTYWZhcmkvNTM3LjM2IiwiYXNuIjoiNzcxMyIsImFzbl9vcmciOiJQVCBUZWxla29tdW5pa2FzaSBJbmRvbmVzaWEiLCJpYXQiOjE2MjA0NTE1ODYsImV4cCI6MTYyMDQ1MTcwNn0.tzNdw9BEuKDzv0du_2_8x4aAGbTWAiAgDhszFiu--d8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=KBhaAaXrCwMsBkDFHC9LeTOVZVQql64ghSq~JRl-f4IAhjLP8irJ04K0dO5SZfXZPsKB0q-uDJeTkg-FVHp-Vrx9KXPMMm8TVIGUVo8G~l2kiQC394BSLeILiLRUwd37sIiaFLvhYYfdY3nutd8DLqycvvA38FT1XXcdC225uoMT97ifxQ9Cmsp9VKsr3PWSZrXcYgXqf4GzdZasxjxLRFyKjml7R21sgGoWwrJ7yuyG5e44QsaZuHlJJtLgU3uCt4wSacE15LW57hu49sEPTHhHBhzbPu6Jv8fDh1ffpcxnVp3rbMYAmmkbMVCws5pvi-tUfYt0nY5hLB4BNP5QdA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red by HBO
-https://r2.servercantik.net/stream/hbored_hd/playlist.mid?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgNToyNDo1MSBBTSZoYXNoX3ZhbHVlPXFyaEJ1Wjg5VUJsVkMycVZtc2dnd0E9PSZpZD0yb3Q0enw0OGNiZGI5YWMwN2E1NWYyYzBlN2YxMTA5YmY1MDdkZiZ2YWxpZG1pbnV0ZXM9MTQ0MA==&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ4Y2JkYjlhYzA3YTU1ZjJjMGU3ZjExMDliZjUwN2RmIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIyb3Q0eiIsIm1heF9kZXZpY2VzIjoxLCJpcCI6IjE4MC4yNTQuMTc5LjIyOSIsInN0cmVhbV9uYW1lIjoiaGJvcmVkX2hkIiwic3RyZWFtIjoiUkVEIGJ5IEhCTyIsInR5cGUiOiJlbmR1c2VyIiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNi4wLjE7IEhHNjgwLVAgQnVpbGQvTUhDMTlKOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzY5LjAuMzQ5Ny40MSBTYWZhcmkvNTM3LjM2IiwiYXNuIjoiNzcxMyIsImFzbl9vcmciOiJQVCBUZWxla29tdW5pa2FzaSBJbmRvbmVzaWEiLCJpYXQiOjE2MjA0NTE0OTEsImV4cCI6MTYyMDQ1MTYxMX0._2pC3l_N-nMgAAIn7rAehv54nIwGCsnxectQ9D5Y-Ew
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=bhHDWw2rtg3g8HcPY4GGts3a-i9X1T4XAyTgQok6NwW8yjv4fhEYKcRSj2cIBbWS~Lyo0Ktw4H168uw6YzW8g1Eu~GJr~6f90irc6arwWXE9kN0DbRHmMEVtT5HFKoKy0Lr5BxeDYoxocKhCf5zpja~tmaBwF91BL4qTIt60g00Jjm~WhyIBDdkRA97WWd93DN0ABB-FmEGHFJlrtX9WuZaJ8n0efQUUZi7JTKN-YUpPR6-nNsTUvVL2stFy54dP5aVBdp1YagaTuQhTOI14PCcnH7tVbPINUPkZn-PvB7UjZQeow-JdZHYEsQVNVGFpUEN0XiWsOf-UAKB5GqnKyA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?token=h4ck3d
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FCtr1jt.png" group-title="MOVIES", FOX MOVIES
@@ -160,28 +148,24 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://pbs.twimg.com/profile_images/914296709458444288/f1sWQqa4_400x400.jpg",FOX LIFE
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="MOVIES", AXN
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM_400x400.jpg" group-title="MOVIES", BLUE ANT ENT
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947319278105116672/Yg2ESN11_400x400.jpg" group-title="MOVIES", BLUE ANT Extreme
-http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="MOVIES",THRILL
-http://rr2.dens.tv/s/s34/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="MOVIES",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="MOVIES",HITS
-http://rr.dens.tv/h/h37/index2.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="MOVIES",Cinema World
-http://rr.dens.tv/h/h04/index2.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="MOVIES",K+
-http://rr.dens.tv/h/h08/index2.m3u8
-#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/blueantext.png" group-title="MOVIES", Flim Hub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/61/a0/19/61a0192326bba2f550f7ff564552a5c5.jpg" group-title="MOVIES", Kungfu Clasic Indo
-http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="MOVIES", WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
+### MOVIES (BACKUP)###
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="MOVIES (BACKUP)",HBO
+https://gratismkctv.net/film/hbo.m3u8 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="MOVIES (BACKUP)",HBO
+https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
+#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif" group-title="MOVIES (BACKUP)",HBO Signature
+http://ruangwaktu.xyz/tuinghbo/sighd.m3u8
+#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif" group-title="MOVIES (BACKUP)",HBO Signature
+https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
+#EXTINF:-1 group-title="MOVIES (BACKUP)" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_5hbo_hits.jpg", HBO Hits
+http://ruangwaktu.xyz/tuinghbo/hbohits.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES (BACKUP)",HBO Family
+http://ruangwaktu.xyz/tuinghbo/hbofam.m3u8
+#EXTINF:-1 group-title="MOVIES (BACKUP)" tvg-logo="https://www.hbci.com/wp-content/uploads/022519-cinemax.jpg", Cinemax by HBO
+http://ruangwaktu.xyz/tuinghbo/max.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES (BACKUP)",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?token=h4ck3d
 
 ### ENTERTAINMENT ###
 #EXTINF:-1 tvg-logo="https://en3yksrguy-flywheel.netdna-ssl.com/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg" group-title="ENTERTAINMENT",TVN
@@ -196,6 +180,35 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6587_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-entertainment-id.png" group-title="ENTERTAINMENT", CITRA ENTERTAINMENT
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6402_720p/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="ENTERTAINMENT", AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM_400x400.jpg" group-title="ENTERTAINMENT", BLUE ANT ENT
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947319278105116672/Yg2ESN11_400x400.jpg" group-title="ENTERTAINMENT", BLUE ANT Extreme
+http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="ENTERTAINMENT",THRILL
+http://rr2.dens.tv/s/s34/index2.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cm.png" group-title="ENTERTAINMENT", Celestial Movies 
+http://rr2.dens.tv/s/s33/01.m3u8  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="ENTERTAINMENT",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="ENTERTAINMENT",HITS
+http://rr.dens.tv/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="ENTERTAINMENT",Cinema World
+http://rr.dens.tv/h/h04/index2.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="ENTERTAINMENT",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/blueantext.png" group-title="ENTERTAINMENT", Flim Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/61/a0/19/61a0192326bba2f550f7ff564552a5c5.jpg" group-title="ENTERTAINMENT", Kungfu Clasic Indo
+http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="ENTERTAINMENT", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
 
 
 
@@ -205,7 +218,6 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6402_720p/index.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DpXhZwFlarg/VhjRXXJb5cI/AAAAAAAADhA/zKoI34QxQB8/s1600/madinah.png" group-title="TV RELIGI", Madinah tv 
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="TV RELIGI",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-zYNS2cXUxL4/VagaiRw08rI/AAAAAAAAFWY/vtz5L0R5PTg/s200/Surau%2BTV%2Bstreaming%2Bonline.png" group-title="TV RELIGI",Surau TV
