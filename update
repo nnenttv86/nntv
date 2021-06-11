@@ -396,6 +396,43 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/BXnUONl.png", STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
+### BEIN SPORT ARAB ###
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 1 HD PREMIUM
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/668
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 2 HD PREMIUM
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/666
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 3 HD PREMIUM
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/664
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/681
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 1 FHD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/680
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 2 FHD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 3 HD 
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/678
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 3 FHD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 4 HD
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/676
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 4 FHD 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30245
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 5 HD
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/674
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 5 FHD 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30244
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 6 HD 
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/672
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 6 FHD 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30243
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 7 HD 
+http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/670
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT ARAB", BEIN SPORT 7 FHD 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
+
+
 ### SKY SPORT ###                      
 #EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT ARENA                     
 http://iptv.tvmalaysia.cc/932633/932633/6615
