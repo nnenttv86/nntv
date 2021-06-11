@@ -351,8 +351,18 @@ https://chostv.mobie.in/choos/sports1/foxsports1.m3u8
 
 ### SPORT ###
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/BXnUONl.png", ESPN 2
-https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsporthd.png" group-title="SPORT", SKYNET SPORT HD
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport1.png" group-title="SPORT", SKYNET SPORT 1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport2.png" group-title="SPORT", SKYNET SPORT 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport3.png" group-title="SPORT", SKYNET SPORT 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport4.png" group-title="SPORT", SKYNET SPORT 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport5.png" group-title="SPORT", SKYNET SPORT 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports1.png" group-title="SPORT", DUBAI SPORTS 1 
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8                       
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports2.png" group-title="SPORT", DUBAI SPORTS 2 
@@ -364,7 +374,9 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports2.png" group-title="SPORT", ABU DHABI SPORTS 2 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports3.png" group-title="SPORT", ABU DHABI SPORTS 3 
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8     
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8  
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/BXnUONl.png", ESPN 2
+https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-id="racing.com" tvg-logo="http://kamiselaluada.com/img/racingcom.png" group-title="SPORT",RACING.COM 
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tennis.png" group-title="SPORT",Tennis Channel 
@@ -384,6 +396,16 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/BXnUONl.png", STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
+### SPORT TV (EURO) ###                      
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="Sports", SPORT TV 1                       
+ 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv2.png" group-title="Sports", SPORT TV 2 
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv3.png" group-title="Sports", SPORT TV 3 
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv4.png" group-title="Sports", SPORT TV 4 
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Sports", SPORT TV 5 
 
 ### PREMIER LEAGUE ###
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHf5Vq19Bkg9rDlGTRLTaxfRdsXbHhWMQhw&usqp=CAU", MU TV
