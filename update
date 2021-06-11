@@ -397,25 +397,25 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 ### SKY SPORT ###                      
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT ARENA                     
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT ARENA                     
 http://iptv.tvmalaysia.cc/932633/932633/6615
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT ACTION
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT ACTION
 http://iptv.tvmalaysia.cc/932633/932633/6616
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT F1
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT F1
 http://iptv.tvmalaysia.cc/932633/932633/6617
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT GOLF
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT GOLF
 http://iptv.tvmalaysia.cc/932633/932633/6618
-#EXTINF:-1 tvg-logo="", SKY SPORT FOOTBALL
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT FOOTBALL
 http://iptv.tvmalaysia.cc/932633/932633/6620
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT PREMIER LEAGUE
 http://iptv.tvmalaysia.cc/932633/932633/6621
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT CRICKET
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT CRICKET
 http://iptv.tvmalaysia.cc/932633/932633/6619
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT RACING
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT RACING
 http://iptv.tvmalaysia.cc/932633/932633/7114
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT MAIN EVENT
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT MAIN EVENT
 http://iptv.tvmalaysia.cc/932633/932633/7115
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT MIX
+#EXTINF:-1 tvg-logo="" group-title="SKY SPORT UK", SKY SPORT MIX
 http://iptv.tvmalaysia.cc/932633/932633/7716
 
 ### SPORT TV (EURO) ###                      
