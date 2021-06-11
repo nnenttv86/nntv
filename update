@@ -456,15 +456,16 @@ http://iptv.tvmalaysia.cc/932633/932633/7115
 http://iptv.tvmalaysia.cc/932633/932633/7716
 
 ### SPORT TV (EURO) ###                      
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="Sports", SPORT TV 1                       
- 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv2.png" group-title="Sports", SPORT TV 2 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv3.png" group-title="Sports", SPORT TV 3 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv4.png" group-title="Sports", SPORT TV 4 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Sports", SPORT TV 5 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="SPORT TV", SPORT TV 1                       
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv2.png" group-title="SPORT TV", SPORT TV 2 
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv3.png" group-title="SPORT TV", SPORT TV 3 
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv4.png" group-title="SPORT TV", SPORT TV 4 
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="SPORT TV", SPORT TV 5 
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 ### PREMIER LEAGUE ###
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHf5Vq19Bkg9rDlGTRLTaxfRdsXbHhWMQhw&usqp=CAU", MU TV
