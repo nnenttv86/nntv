@@ -396,6 +396,28 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/BXnUONl.png", STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
+### SKY SPORT ###                      
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT ARENA                     
+http://iptv.tvmalaysia.cc/932633/932633/6615
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT ACTION
+http://iptv.tvmalaysia.cc/932633/932633/6616
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT F1
+http://iptv.tvmalaysia.cc/932633/932633/6617
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT GOLF
+http://iptv.tvmalaysia.cc/932633/932633/6618
+#EXTINF:-1 tvg-logo="", SKY SPORT FOOTBALL
+http://iptv.tvmalaysia.cc/932633/932633/6620
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT PREMIER LEAGUE
+http://iptv.tvmalaysia.cc/932633/932633/6621
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT CRICKET
+http://iptv.tvmalaysia.cc/932633/932633/6619
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT RACING
+http://iptv.tvmalaysia.cc/932633/932633/7114
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT MAIN EVENT
+http://iptv.tvmalaysia.cc/932633/932633/7115
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORT MIX
+http://iptv.tvmalaysia.cc/932633/932633/7716
+
 ### SPORT TV (EURO) ###                      
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="Sports", SPORT TV 1                       
  
