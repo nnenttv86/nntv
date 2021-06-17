@@ -1,26 +1,24 @@
 #EXTM3U
 
 ### EURO 2021 ###
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 1
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 2
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 3
-https://admdn5.cdn.mangomolo.com:443/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 4
-https://95-213-224-174.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 5
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 6
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",ESPN HD LIVE
 https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 7
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",ESPN 2 HD LIVE
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",SPORT TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",RUSIA LIVE 1
+https://95-213-224-181.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",MONO SPORT
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",UA FOOTBALL 1
+https://95-213-224-174.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",CUATRO HD
 http://91.126.141.13:1935/live/51/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 8
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",CUATRO HD
 http://91.126.141.13:1935/live/51/1800-def.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE BOLA",LIVE 9
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",SPORT TV
 http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8?token=linksports
-#EXTINF:-1 group-title="LIVE BOLA", LIVE 10
-https://d1f63mkc7wrbq6.cloudfront.net/out/v1/481780e02dd440ef8fecd0003fecb833/index.m3u8?ZaNa_iptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png" group-title="TV NASIONAL" ,RCTI
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
