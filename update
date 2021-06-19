@@ -76,33 +76,33 @@ http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
 ### LOKAL VIDIO ###
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL Vidio", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1623992582~acl=/hls-p/ingest_204_*/*~hmac=971ecb01472e2ee060d9f2c9c2ea1a24939d88e414f3829118627005db038bbc/hls-p/ingest_204_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LOKAL Vidio", Indosiar 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png" group-title="LOKAL Vidio" ,RCTI
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-665
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="LOKAL Vidio", NET. 
-https://etslive-2-vidio-com.akamaized.net/exp=1623992609~acl=/hls-p/ingest_875_*/*~hmac=e31abbb18c73f120e7e28051f16a9626b918130f71e8a9fc4470334e684a3238/hls-p/ingest_875_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL Vidio", TransTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1623992590~acl=/hls-p/ingest_733_*/*~hmac=4ef386f577e7d95bd54025ac83b84811a011d8f7e09b4e20254809822e9abc00/hls-p/ingest_733_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="LOKAL Vidio", Trans7 
-https://etslive-2-vidio-com.akamaized.net/exp=1623992592~acl=/hls-p/ingest_734_*/*~hmac=4013851b71a3458013b6509ee5914809d62691b4e2d1675912c3088788797ab1/hls-p/ingest_734_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL Vidio", Global TV
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-778
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL Vidio", MNC TV
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-870
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="LOKAL Vidio", Rajawali TV 
-https://etslive-2-vidio-com.akamaized.net/exp=1623992607~acl=/hls-p/ingest_1561_*/*~hmac=884aa3246fce1e68dc3538e97325cb567fb2e39ed274c9334db89e8600eb8218/hls-p/ingest_1561_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="LOKAL Vidio", MetroTV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="LOKAL Vidio", Kompas TV
-https://etslive-2-vidio-com.akamaized.net/exp=1623992888~acl=/hls-p/ingest_874_*/*~hmac=a71595cf7eb529e5229d4c320d42b6c64b61e454348a0e9c52e913510c567fa4/hls-p/ingest_874_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLt5SLw/beritasatu.png" group-title="LOKAL Vidio", Berita Satu 
-https://etslive-2-vidio-com.akamaized.net/exp=1623992890~acl=/hls-p/ingest_6165_*/*~hmac=7219e983007252f97ace2cbf87d3420f7634d38a1c1e7505ef39ce6220215bac/hls-p/ingest_6165_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="LOKAL Vidio" ,TV ONE
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="LOKAL Vidio", TVRI 
-https://etslive-2-vidio-com.akamaized.net/exp=1623992597~acl=/hls-p/ingest_6441_*/*~hmac=ac177aeb6f4e02e7dc29e234cd5121b7d663972ddaaf7b942e091166aa9d7e4a/hls-p/ingest_6441_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://terminalhrd.com/public/images/article/actual_size/808d1ab88291e16859c98ba52d3e832c.png" group-title="LOKAL Vidio", i News
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-5409
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-lUM5hBUQQpA/Ude_XaFmsvI/AAAAAAAAANk/PzmpQo1jFtM/s400/O+Channel.jpg" group-title="LOKAL Vidio", O Channel
@@ -233,7 +233,7 @@ http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=blueantextreme
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=axn
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", Chinese Drama 
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-chinesedrama
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="ENTERTAINMENTo", Kix 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", Kix 
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=kix
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", Waku Waku Japan 
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=wakuwaku
@@ -472,13 +472,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="PREMIUM SPORT" tvg-logo="https://i.imgur.com/BXnUONl.png", FOX SPORT 1 TRUE
 https://chostv.mobie.in/choos/sports1/foxsports1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="PREMIUM SPORTS", Golf 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="PREMIUM SPORT", Golf 
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=golfplus
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="PREMIUM SPORTS", NBA
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="PREMIUM SPORT", NBA
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=nba
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="PREMIUM SPORTS", UseeSports 1 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="PREMIUM SPORT", UseeSports 1 
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=useesport
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="PREMIUM SPORTS", UseeSports 2 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="PREMIUM SPORT", UseeSports 2 
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=useesports2
 
 ### SPORT ###
