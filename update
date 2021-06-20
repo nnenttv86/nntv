@@ -1,6 +1,15 @@
 #EXTM3U
 
 ### EURO 2021 ###
+
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",YACINE TV FHD
+http://10.ardounar.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",YACINE TV HD
+http://9.anbdaouras.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",SONY TEN 2 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020",SONY TEN 3 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="EURO 2020",ESPN HD LIVE
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EURO 2020",ESPN 2 HD LIVE
