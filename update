@@ -52,7 +52,7 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL" , TRANS TV
-
+https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w163129062_b300100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL", TRANS 7
@@ -95,7 +95,7 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-665
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL Vidio", TransTV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="LOKAL Vidio", Trans7 
-
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1408254284_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL Vidio", Global TV
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-778
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL Vidio", MNC TV
@@ -103,7 +103,7 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-870
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="LOKAL Vidio", Rajawali TV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="LOKAL Vidio", MetroTV 
-
+http://goldenlivektv.com/Kontol/Channel_Metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="LOKAL Vidio", Kompas TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLt5SLw/beritasatu.png" group-title="LOKAL Vidio", Berita Satu 
