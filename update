@@ -85,9 +85,9 @@ http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
 ### LOKAL VIDIO ###
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL Vidio", SCTV HD
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LOKAL Vidio", Indosiar 
-
+http://goldenlivektv.com/Comot_Lagi_Bae/Indosiar_channel_ktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png" group-title="LOKAL Vidio" ,RCTI
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-665
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="LOKAL Vidio", NET. 
